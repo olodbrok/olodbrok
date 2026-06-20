@@ -5,4 +5,4 @@ I have a Master's degree in Electrical Engineering and Computer Science from RWT
 
 Today, I am the Senior Vice President for Precision Medicine, Real World Evidence & Analytics at Elsevier and passionate about using health data to drive innovation in healthcare and outcomes for patients.
 
-These repos represent the projects I do after work, hoping they are helpful for others in the field.
+These repos represent some of the projects I do after work, hoping they are helpful for others in the field.
